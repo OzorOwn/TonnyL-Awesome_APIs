@@ -135,6 +135,11 @@ English | [中文](README-zh.md)
 
 ### Development
 + [ARTIK Cloud](https://developer.artik.cloud/documentation/api-reference/) - The ARTIK Cloud API provides access to the ARTIK Cloud platform.
++ [Agent Code Runner](https://agent-coderunner.vercel.app) - Sandboxed code execution API. Run JavaScript, Python, TypeScript, and Bash safely with resource limits and sessions.
++ [Agent LLM Router](https://agent-llm-landing.vercel.app) - Multi-provider LLM proxy routing to OpenAI, Anthropic, Google, Groq, Together, and DeepSeek through a single unified API.
++ [Agent Scraper](https://agent-scraper-virid.vercel.app) - Web scraping API for AI agents returning markdown, text, HTML, or structured data with headless Chromium JS rendering.
++ [Agent Screenshot](https://agent-screenshot.vercel.app) - URL-to-screenshot API powered by Chromium with 5 viewport presets, full-page capture, dark mode, and element targeting.
++ [Agent Search](https://agent-search-landing.vercel.app) - Web search API for AI agents with structured JSON results, multi-query support, and content extraction.
 + [AT&T M2X](https://m2x.att.com/developer/documentation/v2/overview) - M2X's RESTful API streamlines the connection between devices and the M2X service, allowing you to build applications and services that leverage time-series data analytics and distributed, high-availability time-series data storage, to deliver meaningful information to your customers and end-users and build IOT and M2M solutions without managing your own storage infrastructure.
 + [Bitbucket](https://developer.atlassian.com/cloud/bitbucket/) - Bitbucket is a web-based hosting service that is owned by Atlassian, used for source code and development projects that use either Mercurial or Git revision control systems.
 + [bitly](https://dev.bitly.com/) - bitly is the easiest and most fun way to save, share and discover links from around the web.
