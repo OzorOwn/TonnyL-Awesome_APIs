@@ -134,6 +134,7 @@ English | [中文](README-zh.md)
 + [deviantART](https://www.deviantart.com/developers/) - Allows to get data of deviantart.com.
 
 ### Development
++ [Agent Gateway](https://agent-gateway-kappa.vercel.app) - One API key for 39 production-ready services. Agent memory, task queues, code execution (Python/JS/Bash), web scraping, screenshot API, PDF generator, URL shortener, webhooks, secrets vault, and more. Free tier: 200 credits on signup, no email required. Pay with USDC on Base chain.
 + [ARTIK Cloud](https://developer.artik.cloud/documentation/api-reference/) - The ARTIK Cloud API provides access to the ARTIK Cloud platform.
 + [AT&T M2X](https://m2x.att.com/developer/documentation/v2/overview) - M2X's RESTful API streamlines the connection between devices and the M2X service, allowing you to build applications and services that leverage time-series data analytics and distributed, high-availability time-series data storage, to deliver meaningful information to your customers and end-users and build IOT and M2M solutions without managing your own storage infrastructure.
 + [Bitbucket](https://developer.atlassian.com/cloud/bitbucket/) - Bitbucket is a web-based hosting service that is owned by Atlassian, used for source code and development projects that use either Mercurial or Git revision control systems.
@@ -191,6 +192,7 @@ English | [中文](README-zh.md)
 
 ### Forex & Currencies
 + [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
++ [Agent Gateway — Crypto Price API](https://agent-gateway-kappa.vercel.app) - Free REST API for real-time cryptocurrency prices. BTC, ETH, SOL, and 150+ coins via simple GET requests. 100 free requests/day, no signup. JSON format. Also provides DeFi trading data (Hyperliquid perps), orderbooks, and OHLCV candles.
 + [CurrencyScoop.com](https://currencyscoop.com/) - Free Real-time and historical currency rates JSON API.
 
 ### Games
