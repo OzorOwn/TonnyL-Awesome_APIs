@@ -190,6 +190,7 @@ English | [中文](README-zh.md)
 
 
 ### Forex & Currencies
++ [Agent Gateway](https://agent-gateway-kappa.vercel.app) - Free real-time crypto prices for 100+ tokens across 5 exchanges (Binance, Bybit, Coinbase, Kraken, Hyperliquid). 200 free API credits, no signup required.
 + [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
 + [CurrencyScoop.com](https://currencyscoop.com/) - Free Real-time and historical currency rates JSON API.
 
