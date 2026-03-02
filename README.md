@@ -104,6 +104,7 @@ English | [中文](README-zh.md)
 + [Tencent Cloud](https://cloud.tencent.com/document/api?lang=en)
 + [wilddog](https://www.wilddog.com/) - (**Missing English Docs**)
 + [upyun](https://www.upyun.com/) - (**Missing English Docs**)
++ [Agent Gateway](https://agent-gateway-kappa.vercel.app) - Unified API for 34+ AI agent infrastructure services including memory, wallets, code execution, and scheduling with credit-based billing and OpenAPI specs.
 
 ### Cloud Storage
 + [Amazon Cloud Drive](https://developer.amazon.com/amazon-drive) - With the Amazon Cloud Drive's updated RESTful API and SDKs for Android and iOS, Amazon Drive is moving to an invite-only developer offering to ensure they can provide a consistently viable cloud drive service available for supported use-cases.
